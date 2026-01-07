@@ -31,7 +31,7 @@ Stadium markers with:
 ---
 
 ## 📸 Application Screenshot
-![Application Screenshot]()
+![Application Screenshot](Interactive-Maps-Folium-Python/screenshot.png)
 
 ---
 
